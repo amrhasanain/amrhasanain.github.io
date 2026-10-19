@@ -8,4 +8,4 @@ I created some projects, such as:
 
 [![DuckPilot](https://img.shields.io/badge/DuckPilot-Explore%20project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/duckpilot)
 
-[![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](رابط_مستودع_Export)
+[![Export](https://img.shields.io/badge/Export-Explore%20project-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amrhasanain/export)
